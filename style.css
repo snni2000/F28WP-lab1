@@ -2,7 +2,7 @@
 
 body {
     background: scroll;
-    background-image: url(images/back.jpg);
+    background:linear-gradient(45deg, #f74747, #3d3de3);
     background-position: right;
     margin: 0;
     padding: 0;
